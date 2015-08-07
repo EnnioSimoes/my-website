@@ -247,6 +247,7 @@ body {
   color: #fff;
   text-align: center;
   line-height: 40px;
+  margin: 0;
 }
 .sidebar .widget img {
   margin: 0 auto;
@@ -289,4 +290,61 @@ body {
 .sidebar .widget .last-data p span {
   font-size: 19px;
   font-weight: bold;
+}
+.breadcrumb {
+  margin: 5px auto;
+  padding-left: 60px;
+  width: 100%;
+  color: #ccc;
+  font-size: 12px;
+}
+.breadcrumb a {
+  float: left;
+  display: inline;
+  color: #ccc;
+  text-decoration: none;
+  text-align: left;
+  text-transform: capitalize;
+  font-size: 12px;
+}
+.pagination {
+  margin: 15px 30px;
+}
+.pagination .mdl-button {
+  border-radius: 100%;
+  min-width: 37px;
+}
+.pagination .active {
+  background: #ececec;
+}
+.mdl-mega-footer--link-list {
+  padding: 0;
+  margin: 0;
+}
+.mdl-mega-footer--link-list ul.social li {
+  float: right;
+}
+.mdl-mega-footer--link-list i {
+  font-size: 25px;
+  transition: 0.2s ease;
+}
+.mdl-mega-footer--link-list i:hover {
+  color: #fff;
+}
+.mdl-mega-footer--link-list.social li {
+  float: right;
+}
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6,
+h1.h-title {
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+}
+h1.h-title {
+  margin-left: 30px;
 }

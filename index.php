@@ -3,7 +3,9 @@
 <main class="mdl-layout__content"> <!-- fecha em footer -->
     <div id="post-loop">
         <div class="mdl-grid">
+            
             <div class="mdl-cell mdl-cell--9-col-desktop ">
+                <h1 class="h-title">Home</h1>
                 <?php for ($index = 1; $index < 8; $index++): ?>
                 <section class="section--post mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                     <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color-text--white">
@@ -28,7 +30,11 @@
                     </ul>
                 </section>   
                 <?php endfor; ?>
-
+                <div class="pagination">
+                    <button class="mdl-button active">1</button>
+                    <button class="mdl-button">2</button>
+                    <button class="mdl-button">3</button>
+                </div>
             </div>
             <div class="mdl-cell mdl-cell--3-col-desktop">
                 <div class="sidebar">

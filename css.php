@@ -6,6 +6,3 @@
 <link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css"/>
 <!-- Arquivo original em stylus/main.styl -->
 <link rel="stylesheet" href="assets/css/main.css">  
-
-<!--<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>-->

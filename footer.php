@@ -1,13 +1,25 @@
 <footer class="mdl-mega-footer">
     <div class="mdl-mega-footer--bottom-section">
-        <div class="mdl-logo">
-            Ennio Simões
+        <div class="mdl-grid">
+            <div class="mdl-cell mdl-cell--5-col-desktop ">
+                <div class="mdl-logo">
+                    Ennio Simões
+                </div>
+                <ul class="mdl-mega-footer--link-list">
+                    <li><a href="https://github.com/EnnioSimoes" target="_blank">Web Developer</a></li>
+                </ul>                
+            </div>
+            <div class="mdl-cell mdl-cell--5-col-desktop "></div>
+            <div class="mdl-cell mdl-cell--2-col-desktop ">
+                <ul class="mdl-mega-footer--link-list social">
+                    <li><a href="https://github.com/EnnioSimoes" title="GitHub"><i class="fa fa-github"></i></a></li>
+                    <li><a href="https://github.com/EnnioSimoes" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                </ul>                
+            </div>
+
         </div>
-        <ul class="mdl-mega-footer--link-list">
-            <li><a href="https://github.com/EnnioSimoes" target="_blank">Web Developer</a></li>
-            <li><a href="https://twitter.com/googledesign"><i class="fa fa-github"></i></a></li>
-            <li><a href="https://twitter.com/googledesign"><i class="fa fa-linkedin"></i></a></li>
-        </ul>
+
+
     </div>
 </footer>
 </main>
