@@ -31,7 +31,38 @@
 
             </div>
             <div class="mdl-cell mdl-cell--3-col-desktop">
-                Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Nostrud in laboris labore nisi amet do dolor eu fugiat consectetur elit cillum esse.
+                <div class="sidebar">
+                    <div class="widget">
+                        <div class="title">
+                            <h4>Últimos Posts</h4>
+                        </div>
+                        <div class="last-content">
+                            <div class="last-data">
+                                <p><span>12</span><br/>SEP<br/>2015</p>
+                            </div>
+                            <a href="/" title="">Zend Framework 2 - Saiba como fazer sei que lá</a>
+                        </div>
+                        <div class="last-content">
+                            <div class="last-data">
+                                <p><span>12</span><br/>SEP<br/>2015</p>
+                            </div>
+                            <a href="/" title="">Zend Framework 2</a>
+                        </div>
+                        <div class="last-content">
+                            <div class="last-data">
+                                <p><span>12</span><br/>SEP<br/>2015</p>
+                            </div>
+                            <a href="/" title="">Zend Framework 2</a>
+                        </div>
+                    </div>
+                    <div class="widget">
+                        <div class="title">
+                            <h4>Publicidade</h4>
+                        </div>
+                        <img src="http://dummyimage.com/300x300/ccc/333" alt="" title="" />
+                    </div>
+                </div>
+                
             </div>
         </div>
 

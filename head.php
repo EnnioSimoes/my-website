@@ -42,7 +42,7 @@
                 margin-bottom: 40px;
                 z-index: 900;
             }
-            .logo-site{margin-left: 17px;}
+            .logo-site{margin-left: 20px;}
         </style>
     </head>
 <script type="text/javascript">
